@@ -1,0 +1,6 @@
+framework module LLSliderController {
+  umbrella header "LLSliderController-umbrella.h"
+
+  export *
+  module * { export * }
+}

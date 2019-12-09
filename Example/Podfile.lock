@@ -1,0 +1,16 @@
+PODS:
+  - LLSliderController (0.1.0)
+
+DEPENDENCIES:
+  - LLSliderController (from `../`)
+
+EXTERNAL SOURCES:
+  LLSliderController:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LLSliderController: e72ddda89f9e2f6400bca2859abb06b138a3d80c
+
+PODFILE CHECKSUM: 58164df592ae738d596c0639f5e2f71451717a1b
+
+COCOAPODS: 1.8.4

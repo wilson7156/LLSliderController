@@ -1,0 +1,6 @@
+framework module Pods_LLSliderController_Tests {
+  umbrella header "Pods-LLSliderController_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
