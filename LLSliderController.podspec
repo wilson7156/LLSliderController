@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'LLSliderController'
-  s.version          = '0.1.0'
+  s.version          = '1.0.0'
   s.summary          = '简单实现侧滑'
 
 # This description is used to generate tags and improve search results.
